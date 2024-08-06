@@ -1,0 +1,31 @@
+{
+  "Team":[
+    {
+      "name": "Sherlyne Ochieng", 
+      "skills": "Author",
+      "description":"Sherlyne is is the Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, officiis?", 
+      "image":"./"
+    },
+
+    {
+      "name": "Daniel Nyaga", 
+      "skills": "Team Leader",
+      "description":"Daniel the team leader the Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, officiis?", 
+      "image":"./"
+    },
+
+    {
+      "name": "Sherlyne Ochieng", 
+      "skills": "Author",
+      "description":"Sherlyne is is the Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, officiis?", 
+      "image":"./"
+    },
+
+    {
+      "name":"Christian Kazee", 
+      "skills": "The Master",
+      "description":"Sherlyne is is the Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, officiis?", 
+      "image":"./"
+    }
+  ]
+}
